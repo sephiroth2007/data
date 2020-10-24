@@ -1,7 +1,7 @@
 # data
 Data Covid-19
 
-File project name: Visualization.zip
+File project name: VisualizationCovid.zip
 Currently running on pycharm
 
 Things to do:
