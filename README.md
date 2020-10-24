@@ -7,7 +7,7 @@ File project name: VisualizationCovid.zip
 - Folder templates has the code in d3.js (home.html)
 
 About the graphs.
-- GraphsTentative is the last graph Elliot send like example.  
+- GraphsTentative.png is the last graph Elliot send like example.  
 This is an example static figure that we aim to make it dynamic, The colored lines mark the initiation of the corresponding public health intervention. The solid blue lines represent median, light blue shading represents 50% confidence intervals of the model estimate, and dark blue shading represents 95% confidence intervals of the model estimate. The upper figure in each cluster is the estimated daily reproduction number over time. The dashed horizontal line represents a daily reproduction numberof one. The lower figure in each cluster is the estimated reported cases versus the actual reported cases (black dashed line) by date of onset.
 Code abbreviations:
 S1: School closing
@@ -23,7 +23,6 @@ S1: School closing
 	H1: Public information campaigns
 	H2: Testing policy
 	H3: Contact tracing'
-/////////////
 
 Things to do:
 Matias
