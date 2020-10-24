@@ -39,6 +39,52 @@ In the folder books there are books....
 
 I recommend this: D3-Tips-and-Tricks
 
+Data:
+covid19_rt_global.csv
+
+Motivation:
+https://www.createwithdata.com/d3js-or-chartjs/
+https://medium.com/free-code-camp/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2
+
+Information:
+
+https://www.tutorialspoint.com/d3js/index.htm
+
+https://www.w3schools.com/js/
+
+https://www.tutorialsteacher.com/d3js
+
+http://learnjsdata.com
+
+https://riptutorial.com/d3-js
+
+https://www.dashingd3js.com/table-of-contents
+
+https://www.d3-graph-gallery.com
+
+https://d3js.org
+
+https://bl.ocks.org
+
+https://www.d3indepth.com
+
+https://observablehq.com
+https://observablehq.com/@d3/gallery
+https://observablehq.com/@d3/learn-d3
+
+https://www.freecodecamp.org/news/learn-d3-js-in-5-minutes-c5ec29fb0725/
+
+https://christopheviau.com/d3list/
+
+https://www.bogotobogo.com/DataVisualization/List_of_D3_Examples.php
+
+Videos
+https://www.youtube.com/watch?v=4e3NF8ez95w&list=PL9yYRbwpkykvOXrZumtZWbuaXWHvjD8gi&index=1
+https://www.youtube.com/watch?v=_8V5o2UHG0E
+
+
+
+
 
 
 
