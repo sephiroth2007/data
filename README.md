@@ -39,6 +39,9 @@ In the folder books there are books....
 
 I recommend this: D3-Tips-and-Tricks
 
+Data:
+covid19_rt_global.csv
+
 
 
 
