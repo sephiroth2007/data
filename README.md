@@ -1,6 +1,9 @@
 # data
 Data Covid-19
 
+File project name: Visualization.zip
+Currently running on pycharm
+
 Things to do:
 Matias
 Make corrections Graph 1:
