@@ -3,6 +3,8 @@ Data Covid-19
 
 File project name: VisualizationCovid.zip
 Currently running on pycharm
+Run app.py
+Folder templates has the code in d3.js (home.html)
 
 Things to do:
 Matias
