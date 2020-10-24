@@ -33,3 +33,14 @@ I think the corrections less important are the vertical and horizontal lines.
 
 Final part (Both):
 Joining Graph 1 and 2.
+
+Books:
+In the folder books there are books....
+
+I recommend this: D3-Tips-and-Tricks
+
+
+
+
+
+
