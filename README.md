@@ -46,6 +46,9 @@ https://bl.ocks.org/interwebjill/8122dd08da9facf8c6ef6676be7da03f
 stacked area
 https://www.d3-graph-gallery.com/graph/stackedarea_basic.html
 
+confidence interval
+https://www.d3-graph-gallery.com/graph/line_confidence_interval.html
+
 If you find any better yet.
 
 I would recommend first:
